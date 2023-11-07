@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    color: white;
+    border-radius: 40px;
+    height: 100px;
+    font-size: 50px;
+
+}
+
+.info-box{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    height: 200px;
+    
+}
+
+.col {
+
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    height: 300px;
+
+}
+
+.wrapper{
+    display: flex;
+}
